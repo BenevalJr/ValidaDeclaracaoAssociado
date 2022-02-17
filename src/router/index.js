@@ -7,7 +7,7 @@ import AreaDoAssociadoDashBoard from '@/views/AreaDoAssociadoDashBoard'
 import AreaDoAssociadoConfirmaCadastro from '@/views/AreaDoAssociadoConfirmaCadastro'
 import AreaDoAssociadoConfirmaCancelamento from '@/views/AreaDoAssociadoConfirmaCancelamento'*/
 import AreaDoAssociadoValidaDeclaracao from '@/views/AreaDoAssociadoValidaDeclaracao'
-import CallAdm from '@/views/CallAdm'
+//import CallAdm from '@/views/CallAdm'
 
 Vue.use(VueRouter)
 
